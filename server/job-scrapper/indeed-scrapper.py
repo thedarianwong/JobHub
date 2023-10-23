@@ -37,7 +37,7 @@ def get_job_data(driver, target_url):
         card.click()
         time.sleep(random.uniform(4.6, 6.9))
    
-        job_title = driver.find_element('xpath', '//*[@id="jobsearch-ViewjobPaneWrapper"]/div/div/div/div[1]/div/div[1]/div[1]/h2' ).text.strip()
+        job_title = driver.find_element('xpath', '/html/body/main/div/div[1]/div/div[5]/div[2]/div/div/div/div/div[1]/div/div[1]/div[1]/h2' ).text.strip()
         title = job_title.split('\n')
         data = {'Job Title': title}
         all_data.append(data)
@@ -56,7 +56,7 @@ def main():
     for page in range(0, 50, 10):
         order_page = (url + '&start=' +str(page))
         browser.get(order_page)
-        time.sleep(random.uniform(2, 4))
+        time.sleep(random.uniform(8.9, 10.5))
         # We need to add close modal button just in case if theres notifications popped out
         get_job_data(browser, order_page)
 
