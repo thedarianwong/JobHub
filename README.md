@@ -66,9 +66,10 @@ The transition from academic studies to professional internships is a significan
   npm start
   ```
 
-###Frontend: 
+### Frontend: 
 Built with React and 'GET' jobs data from server using Axios
-###Backend: 
+
+### Backend: 
 Used Python with JobSpy to built scraper for scraping jobs and export as .csv file
 Created Database with SQLite
 Used Flask to manipulate and queried needed jobs data
