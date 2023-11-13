@@ -56,6 +56,7 @@ The transition from academic studies to professional internships is a significan
    cd server/job-server
    pip install Flask Flask-SQLAlchemy
    flask run
+   ```
   
 2. Open another terminal:
   
