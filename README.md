@@ -1,4 +1,5 @@
-![2023-11-13 (3)](https://github.com/thedarianwong/JobHub/assets/93755359/8fd068b6-9e4b-4612-bc47-bce9750ada6d)# JobHub
+# JobHub
+![2023-11-13 (3)](https://github.com/thedarianwong/JobHub/assets/93755359/8fd068b6-9e4b-4612-bc47-bce9750ada6d)
 ## We will get you all the jobs you ever wanted to find..
 
 ### Inspiration
