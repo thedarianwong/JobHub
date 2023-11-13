@@ -1,4 +1,4 @@
-# JobHub
+![2023-11-13 (3)](https://github.com/thedarianwong/JobHub/assets/93755359/8fd068b6-9e4b-4612-bc47-bce9750ada6d)# JobHub
 ## We will get you all the jobs you ever wanted to find..
 
 ### Inspiration
@@ -42,7 +42,7 @@ In-depth documentation will accompany the project, ensuring that even those with
 
 For a sneak peek into our architectural vision, check out the preliminary diagram below.
 
-<img width="453" alt="image" src="https://github.com/thedarianwong/JobHub/client/job-aggregator-client/src/jobhub_logo.png>
+<img width="453" alt="image" src="https://github.com/Mark-Vu/JobHub/assets/99154887/2edfad7b-fe54-4ad1-bd35-48be40b64bb0">
 
 --------------------------------------------------------------------------------------------------
 # JobHub
